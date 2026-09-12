@@ -126,34 +126,6 @@ git clone https://github.com/yourusername/flipkart-sql-project.git
 
 ---
 
-## ERD (Entity-Relationship Diagram)
-
-![ERD Placeholder](---
-
-## Getting Started
-
-### Prerequisites
-
-* PostgreSQL (or any SQL-compatible database)
-* Basic understanding of SQL
-
-### Steps
-
-1. **Clone the Repository**:
-
-```bash
-git clone https://github.com/yourusername/flipkart-sql-project.git
-```
-
-2. **Set Up the Database**:
-
-   * Run the `schema.sql` script to set up tables and insert sample data.
-3. **Run Queries**:
-
-   * Execute each query in `Flipkart_Sql_Queries.sql` to explore and analyze the data.
-
----
-
 
 ## ERD (Entity-Relationship Diagram)
 
