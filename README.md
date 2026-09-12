@@ -119,10 +119,10 @@ git clone https://github.com/amandeepkaur2024/Flipkart-E-commerce-SQL-Project.gi
 
 2. **Set Up the Database**:
 
-   * Run the `schema.sql` script to set up tables and insert sample data.
+   * Run the `Schema.sql` script to set up tables and insert sample data.
 3. **Run Queries**:
 
-   * Execute each query in `Flipkart_Sql_Queries.sql` to explore and analyze the data.
+   * Execute each query in `Flipkart_sql_queries.sql` to explore and analyze the data.
 
 ---
 
@@ -130,10 +130,6 @@ git clone https://github.com/amandeepkaur2024/Flipkart-E-commerce-SQL-Project.gi
 ## ERD (Entity-Relationship Diagram)
 
 ![ERD Placeholder](Flipkart_Project_Schemas.png)
-
-## Notice
-
-All customer names and data used in this project are computer-generated using AI and random functions. They do not represent real data associated with Flipkart or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.)
 
 ## Notice
 
