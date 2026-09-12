@@ -101,11 +101,11 @@ The following queries were created to solve specific business questions. Each qu
 The Flipkart_Sql_Queries.sql file contains 40 SQL queries developed for this project, organized into six sections by technique:
 
 * **Joins** — INNER, LEFT, and FULL OUTER JOINs across the five tables
-Joins + Where — filtered joins on customer state, product category, and pricing conditions
-Joins + Group By + Having — aggregated metrics (totals, averages) filtered by threshold conditions
-Joins + Where + Group By + Having + Order By — combined filtering, aggregation, and ranking
-Date Functions — EXTRACT, TO_CHAR, and AGE for year/month breakdowns and date comparisons
-Assignments — 15 applied business questions combining the techniques above to answer real e-commerce questions (top spenders, unshipped orders, most popular products, monthly revenue trends, and more)
+* **Joins + Where** — filtered joins on customer state, product category, and pricing conditions
+* **Joins + Group By + Having** — aggregated metrics (totals, averages) filtered by threshold conditions
+* **Joins + Where + Group By + Having + Order By** — combined filtering, aggregation, and ranking
+* **Date Functions** — EXTRACT, TO_CHAR, and AGE for year/month breakdowns and date comparisons
+* **Assignments** — 15 applied business questions combining the techniques above to answer real e-commerce questions (top spenders, unshipped orders, most popular products, monthly revenue trends, and more)
 
 Each query includes a comment describing the business question it answers. A curated sample of 10 questions is highlighted above in Business Problems; the full set is available in the file itself.
 
