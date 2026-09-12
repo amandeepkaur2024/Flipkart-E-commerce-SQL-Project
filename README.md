@@ -157,7 +157,7 @@ git clone https://github.com/yourusername/flipkart-sql-project.git
 
 ## ERD (Entity-Relationship Diagram)
 
-![ERD Placeholder](Flipkart Project Schemas.png)
+![ERD Placeholder](Flipkart_Project_Schemas.png)
 
 ## Notice
 
