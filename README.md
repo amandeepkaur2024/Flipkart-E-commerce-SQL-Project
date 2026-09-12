@@ -114,7 +114,7 @@ The `Flipkart_Sql_Queries.sql` file contains all SQL queries developed for this 
 1. **Clone the Repository**:
 
 ```bash
-git clone https://github.com/yourusername/flipkart-sql-project.git
+git clone https://github.com/amandeepkaur2024/Flipkart-E-commerce-SQL-Project.git
 ```
 
 2. **Set Up the Database**:
