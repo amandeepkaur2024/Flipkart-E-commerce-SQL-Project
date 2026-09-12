@@ -98,7 +98,7 @@ The following queries were created to solve specific business questions. Each qu
 
 ## SQL Queries & Analysis
 
-The Flipkart_Sql_Queries.sql file contains 40 SQL queries developed for this project, organized into six sections by technique:
+The queries.sql file contains 40 SQL queries developed for this project, organized into six sections by technique:
 
 * **Joins** — INNER, LEFT, and FULL OUTER JOINs across the five tables
 * **Joins + Where** — filtered joins on customer state, product category, and pricing conditions
