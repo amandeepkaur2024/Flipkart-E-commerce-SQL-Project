@@ -101,3 +101,35 @@ The following queries were created to solve specific business questions. Each qu
 The `Flipkart_Sql_Queries.sql` file contains all SQL queries developed for this project, organized by technique (Joins, Joins + Where, Joins + Group By + Having, Joins + Where + Group By + Having + Order By, Date Functions, and a final set of applied business-problem assignments). Each query demonstrates skills in SQL syntax, data filtering, aggregation, grouping, and ordering.
 
 ---
+
+## Getting Started
+
+### Prerequisites
+
+* PostgreSQL (or any SQL-compatible database)
+* Basic understanding of SQL
+
+### Steps
+
+1. **Clone the Repository**:
+
+```bash
+git clone https://github.com/yourusername/flipkart-sql-project.git
+```
+
+2. **Set Up the Database**:
+
+   * Run the `schema.sql` script to set up tables and insert sample data.
+3. **Run Queries**:
+
+   * Execute each query in `Flipkart_Sql_Queries.sql` to explore and analyze the data.
+
+---
+
+## ERD (Entity-Relationship Diagram)
+
+![ERD Placeholder](https://github.com/najirh/Flipkart--SQL-Project-B01/blob/main/Flipkart%20Project%20Schemas.png)
+
+## Notice
+
+All customer names and data used in this project are computer-generated using AI and random functions. They do not represent real data associated with Flipkart or any other entity. This project is solely for learning and educational purposes, and any resemblance to actual persons, businesses, or events is purely coincidental.
